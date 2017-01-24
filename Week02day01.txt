@@ -1,0 +1,32 @@
+                      "ASSEMBLY Language" 
+ Assembly programlasdirma dili daha yigcam ve effektiv olub,komputer programlarinin,drayverlerin ve komputerin aparat hissesine muraciet ucun ve s. istidifade olunur.Bu dilin diger dillerden ferqi elde edeceyimiz netice ucun diger programlawdirma dillerine gore daha cox setir ve Kod teleb etmesidir.Bu dilde yazilan butun programlar en ust seviyededir,cunki diger dillerden ferqli olara yazilan kodu vasiteci olmadan sistemde oxunmasidir.
+  Bu program dilinde yazilmiw her setir kod 1-4 Byte tutar ve bawqa dilde yazdigimi emr sistem oxumadigi halda bu program dili onu muxtelif variantlar teklif edib sisteme izah etmeye komek gosterer.
+ Bu program cox az yer tutdugundan daha cox komputer viruslarinin yazilmasinda,qrafika ve effektleri uzerinde iwlenmesinde, bawqa dil adi altinda diger dillerin terkibinde istifade olunmasinda ve her hansi dilde helli cetin olan bir programin Assemblerle daha optimal hellin tapilmasi bu prograwdirma dilinin esas ustunluyudur.
+Bu proglawdirma dilinin cox setirden ibaret olmasi,Oyrenilmesinin uzun muddet ve guc serf etmesi,cox qariwiq oldugundan bu dili  bildiyin halda her hansi bir ssetirin oxunmasinin bir az vaxt aparmasi bu dilin esas menfi cehetlerindendir.
+
+
+                       "Machine Language"
+Machine Language - programlawdirma dilleri icerisinde en asagi seviyye olan programlawdir dilidir hansiki, bu dilde yazilmiw melumati yalniz komputer oxuya bilir.
+ Buna sebeb ise bu dilin esasen butovlukde reqemler toplusundan ibaret olmasidir.Buna gorede programcilar  yuksek seviyyeli dillerde ve yaxud assemli dilinden istifade edirler.Assembly prograwlardirma dili de bu dil kimi texmini eyni terkibe malikdir esas ferqi ise telimatlarin ve muxteliflikleri reqemlerle yox sozlerle ifadesidir.
+Komputer her hansi dilde yazilmiw emri bir bawa olaraq icra etmek qabiliyetine malik deyil.Bunun ucun hemin emrler komputerin anlawila bileceyi Machine diline cevrilmelidir ki bunlarada Compilerler deyilir.
+
+
+
+                       "COBOL Language"
+COBOL(COmmon Business Oriented Language)programlawdirma dili 1959-cu ilde Amerika istehsalcilari ve dovlet sektorundaki bir qrup wexs terefinden yaradilib.BU dilin inkisaf ve tedqiq edilmesinde esas rolu GRACE  HOPPER oynamiwdir.BU programlawdirma dili bizness sektoru ucun geniw yayilmiw ilk yuksek seviyyeli programlawdirma dilidir.Inkisaf etdirilmesinde esas meqsed informasiya mubaedilesinde istifade olunacaq,analitik arawdirmalarda ve biznes elavelerinde istifade olunacaq daniwa bilen programlawdirma dilinin yaradilmasidir.Bu dilin Basic DIli 1964-cu il terefinden yeni oyrenenler ucun hazirlanmiwdir.Bu dil insanin hesablama mawini ile bilavesite informasiya mubadelisinin aparilmalimasini tewkil eden sade bir programlawdirma dilidir.
+ Ilk vaxtlar bu dili emrlerini icra etmek ucun interpretatorlardan istifade olunurdi indi ise	kompilyatorlardan istifade olunur. 
+
+ 
+ 
+ 
+                        "RUBY Language"
+Ruby-obyekt yonumlu programlawdirma dilirdir.Bu dili  Yukihiro Matsumoto terefinden yaradilmiw ve 1995-ci ilden beri suretli wekilde inkisaf etdirilmiwdir.BU dil platform teleb etmir ve istifadeci rahatligi verir.Bu dilin esasi (Perl, Smalltalk, Eiffel, Ada, ve Lisp)dillerinden tewkil olunmuwdur.Bu dil sade soz yigimina (syntax) sahibdir.Sehv yoxlama mexanizmi var.Temamile Obyekt yonumludur.Zibil toplamaq funksiyasina gore yaddawi idare etmke funksiyasina alikdir bunun sayesindede .Sweep emrine ehtiyac qalmir.
+ Ruby hemcinun bir cox istifade sistemi ucun yaradilmiwdir.bunun sayesinde o butun Unix,Microsoft platformlari, Mac OS X,Amiga,BeOs,Os/2,Symbian sistemleri ilede istifade oluna bilir.
+
+
+                        "JavaScript"
+JavaScript -internet  sehifelerinin yaradilmasinda geniw istifade olunan program dilidir.Bu dil 1995-ci ilde Brendan EichB terefinden yazilmiwdir.Hemde bu dil obyekt yonumlu programllawdirma dilidir.Bu dil evveler Mocha sonra ise LiveScript adlandirilmiw,1995-ci ilde  Netscape terefinden JavaScript olaraq deyiwilmiwdir.
+ JavaScript-HTML sehifeye inteqrasiya olunaraq,bu sehife ile istifadeci  arasindaki interfeyse daxil olaraq elave funksional  imkanlar veren aloritmik dildir.
+ BU dilin esas imkanlari - Dinamik yeni Html sehife yaratmaga ve yaxud her hansi HTML sehifeye dinamiklik vermeye ve bu tipde foto galereya yaratmaga ve hemcinin yerli tarix ve zamandan asili olaraq  mueyyen ssenarileri heyate kecirmeye imkan verir.
+  Bu Dilde yazilmiw Web sehifeleri ancaq  JavaScript  desteyi veren webrauerlernen izlene bilir.
+ En mehwur brauzleri ise  Netscape ve  Internet explorerdir.
